@@ -31,4 +31,4 @@ __Conclusão:__
 
 Este projeto representa um passo importante na minha jornada de aprendizado em desenvolvimento web. Estou animada para continuar aprimorando minhas habilidades e explorar novas       tecnologias no futuro. Sinta-se à vontade para explorar o código e enviar feedback!
 
-Obrigada por visitar o repositório!
+__Obrigada por visitar o repositório!__
