@@ -1,6 +1,7 @@
 ✳️ __Hora do Desafio!__ ✳️
 
 _Bem-vindo ao repositório "Hora do Desafio"!_
+
 Este projeto é uma demonstração do meu aprendizado em desenvolvimento web, onde utilizei principalmente JavaScript, além de um pouco de CSS e HTML. O sistema foi desenvolvido como   parte do meu progresso no curso ONE da Oracle e tem como objetivo testar e consolidar meus conhecimentos básicos em programação.
 
 __Descrição do Projeto:__
