@@ -1,3 +1,33 @@
-Realização do exercício "Hora do Desafio" do curso ONE da Oracle em JavaScript para desenvolver habilidades.
+Hora do Desafio!
+
+Bem-vindo ao repositório "Hora do Desafio"!
+Este projeto é uma demonstração do meu aprendizado em desenvolvimento web, onde utilizei principalmente JavaScript, além de um pouco de CSS e HTML. O sistema foi desenvolvido como   parte do meu progresso no curso ONE da Oracle e tem como objetivo testar e consolidar meus conhecimentos básicos em programação.
+
+Descrição do Projeto:
+
+O Hora do Desafio é uma aplicação simples que permite interagir com diferentes botões, acionando lógicas programadas para mostrar como manipular eventos e exibir mensagens ao usuário.   Durante o desenvolvimento, utilizei comandos como alert e console.log para demonstrar o funcionamento do sistema e acompanhar a execução das ações.
+
+Funcionalidades:
+
+Interação com botões que executam ações específicas.
+Exibição de mensagens através do comando alert.
+Registro de eventos no console usando console.log.
+Lógica de funcionamento simples para testar conhecimentos adquiridos.
+
+Tecnologias Utilizadas:
+
+JavaScript: Para a lógica do sistema.
+HTML: Para a estrutura da página.
+CSS: Para o estilo visual básico.
+
+Demonstração:
+
+Abaixo, você encontrará um gif que mostra o sistema em funcionamento, evidenciando a interatividade e a resposta aos cliques dos botões:
 
 ![Projeto Pronto](https://github.com/user-attachments/assets/c17ebe2b-d81d-47ce-86c2-9d0c4007d292)
+
+Conclusão:
+
+Este projeto representa um passo importante na minha jornada de aprendizado em desenvolvimento web. Estou animada para continuar aprimorando minhas habilidades e explorar novas       tecnologias no futuro. Sinta-se à vontade para explorar o código e enviar feedback!
+
+Obrigada por visitar o repositório!
