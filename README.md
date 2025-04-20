@@ -31,4 +31,15 @@ __Conclusão:__
 
 Este projeto representa um passo importante na minha jornada de aprendizado em desenvolvimento web. Estou animada para continuar aprimorando minhas habilidades e explorar novas       tecnologias no futuro. Sinta-se à vontade para explorar o código e enviar feedback!
 
-__Obrigada por visitar o repositório!__
+### 👨‍💻 Autora
+
+Para mais informações, sinta-se à vontade para entrar em contato:
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/57cac2a3-49b1-4a0a-aef3-e968523971eb" width="13%" alt="autora" />
+</div>
+
+- [Github](https://github.com/luizadaso)
+- [Linkedin](https://www.linkedin.com/in/luizadaso)  
+
+Se gostou do projeto, não esqueça de deixar uma ⭐ no repositório! 😊  
